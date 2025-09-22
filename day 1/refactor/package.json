@@ -1,0 +1,12 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "description": "advent of code 2024 in nodejs",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
