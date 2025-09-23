@@ -12,6 +12,3 @@ const distanceSum = input.calculateDistanceSum()
 console.log(`distanceSum: ${distanceSum}`)
 const similarityScore = input.calculateSimilarityScore()
 console.log(`similarityScore: ${similarityScore}`)
-
-
-
